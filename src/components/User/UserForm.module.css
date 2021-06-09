@@ -1,0 +1,22 @@
+.form {
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: whitesmoke;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+}
+
+div {
+  padding: 5px;
+}
+
+label {
+  margin-bottom: 5px;
+}
